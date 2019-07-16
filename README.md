@@ -26,6 +26,8 @@ package list:
 
 ### sftp
 
+[rishiqing/sftp](https://hub.docker.com/r/rishiqing/sftp)
+
 基于 atmoz/sftp 构建的一个镜像，加入了对 [ossfs](<https://github.com/aliyun/ossfs>) 的支持，这样就可以用sftp的方式对OSS进行管理
 
 from: atmoz/sftp:latest
